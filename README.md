@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhijitrehpade8
+- 👋 Hi, I’m @Abhijit2702
 - 👀 I’m interested in creating fullstack prjects
 - 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on a project 'Clone of Youtube'
